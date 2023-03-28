@@ -51,7 +51,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Rails api app] <a name="about-project"></a>
 
 > This a setup rails api app for a [react fronend app](https://github.com/Abdessittir/hello-react-front-end)
 
